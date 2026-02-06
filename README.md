@@ -1,0 +1,1 @@
+write $| J, M_J \rangle$ as a linear combination of states in a Fock space of $\texttt{N}$ electrons. $\texttt{represent_state_2nd_Q}$ will help representing the state in the second quantization using sympy second quantization package.
